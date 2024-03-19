@@ -17,4 +17,4 @@ These two connections can be done automatically launching `connect_databases.sh`
 
 The connections need to be open all the time you want to access the database.
 
-## 2. Check the properties available in each database
+## 2. Use the notebook `plot_db_variables.ipynb`
